@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="1.css"?> 
+<survey> 
+	<heading>Welcome to survey</heading> 
+	<isro> 
+		<title>Region -: Atlantic</title>
+        <location>Location -: carter</location> 
+		<FutureType>FutureType -: SeaAmount</FutureType>
+		<RovDives>RovDives -: 5</RovDives>
+		<AreaCovered> AreaCovered -: 2.78</AreaCovered> 
+        <DepthRangeSurvived>DepthRangeSurvived -: 200-2800</DepthRangeSurvived>
+        <DistanceFromLand>DistanceFromLand(km) -:603</DistanceFromLand>
+        <shippingFromProxy>shippingFromProxy -:0.12</shippingFromProxy>
+	    <Items>Items(ha-1) :-12.23</Items>
+	</isro> 
+    <isro> 
+		<title>Region -: Atlantic</title>
+        <Location>Location -: Knipovichi</Location> 
+		<FutureType>FutureType -: SeaAmount</FutureType>
+		<RovDives>RovDives -: 3</RovDives>
+		<AreaCovered> AreaCovered -: 2.18</AreaCovered>
+        <DepthRangeSurvived>DepthRangeSurvived -: 600-2800</DepthRangeSurvived>
+        <DistanceFromLand>DistanceFromLand(km) -:603</DistanceFromLand>
+        <shippingFromProxy>shippingFromProxy -:0.12</shippingFromProxy>
+        <Items>Items(ha-1) :-12.23</Items>
+	</isro> 
+	<isro>
+		<title>Region -: Atlantic</title>
+        <Location>Location -: VEMA</Location>
+		<FutureType>FutureType -: Fracture Zone</FutureType>
+		<RovDives>RovDives -: 3</RovDives>
+		<AreaCovered> AreaCovered -: 1.80</AreaCovered>
+        <DepthRangeSurvived>DepthRangeSurvived -: 600-3000</DepthRangeSurvived>
+        <DistanceFromLand>DistanceFromLand(km) -:603</DistanceFromLand>
+        <shippingFromProxy>shippingFromProxy -:0.12</shippingFromProxy>
+	    <Items>Items(ha-1) :-12.23</Items>
+	</isro> 
+	<isro>
+		<title>Region -: Atlantic</title> 
+        <Location>Location -: Vayda</Location> 
+		<FutureType>FutureType -: SeaAmount</FutureType>
+		<RovDives>RovDives -: 3</RovDives>
+		<AreaCovered> AreaCovered -: 3.10</AreaCovered>
+        <DepthRangeSurvived>DepthRangeSurvived -: 600-3000</DepthRangeSurvived>
+        <DistanceFromLand>DistanceFromLand(km) -:603</DistanceFromLand>
+        <shippingFromProxy>shippingFromProxy -:0.12</shippingFromProxy>
+	    <Items>Items(ha-1) :-12.23</Items>
+	</isro> 
+	<isro>
+		<title>Region -: Atlantic</title>
+        <Location>Location -: Gramberg</Location> 
+		<FutureType>FutureType -: SeaAmount</FutureType>
+		<RovDives>RovDives -: 2</RovDives>
+		<AreaCovered> AreaCovered -: 1.70</AreaCovered>
+        <DepthRangeSurvived>DepthRangeSurvived -: 400-2300</DepthRangeSurvived>
+        <DistanceFromLand>DistanceFromLand(km) -:603</DistanceFromLand>
+        <shippingFromProxy>shippingFromProxy -:0.12</shippingFromProxy>
+	    <Items>Items(ha-1) :-12.23</Items>
+	</isro> 
+	<isro> 
+		<title>Region -: Indian</title> 
+        <Location>Location -: Coral</Location> 
+		<FutureType>FutureType -: SeaAmount</FutureType>
+		<RovDives>RovDives -: 5</RovDives>
+		<AreaCovered> AreaCovered -: 2.04</AreaCovered>
+        <DepthRangeSurvived>DepthRangeSurvived -: 900-2200</DepthRangeSurvived>
+        <DistanceFromLand>DistanceFromLand(km) -:603</DistanceFromLand>
+        <shippingFromProxy>shippingFromProxy -:0.12</shippingFromProxy>
+	    <Items>Items(ha-1) :-12.23</Items>
+	</isro> 
+    <isro>
+		<title>Region -: Indian</title> 
+        <Location>Location -: Melville</Location>
+		<FutureType>FutureType -: Bank</FutureType>
+		<RovDives>RovDives -: 4</RovDives>
+		<AreaCovered> AreaCovered -: 1.35</AreaCovered>
+        <DepthRangeSurvived>DepthRangeSurvived -: 500-1500</DepthRangeSurvived>
+        <DistanceFromLand>DistanceFromLand(km) -:603</DistanceFromLand>
+        <shippingFromProxy>shippingFromProxy -:0.12</shippingFromProxy>
+	    <Items>Items(ha-1) :-12.23</Items>
+	</isro> 
+	<isro>
+		<title>Region -: Indian</title> 
+        <Location>Location -: Middle Of what</Location>
+		<FutureType>FutureType -: SeaAmount</FutureType>
+		<RovDives>RovDives -: 3</RovDives>
+		<AreaCovered> AreaCovered -: 0.41</AreaCovered>
+        <DepthRangeSurvived>DepthRangeSurvived -: 200-2800</DepthRangeSurvived>
+        <DistanceFromLand>DistanceFromLand(km) -:603</DistanceFromLand>
+        <shippingFromProxy>shippingFromProxy -:0.12</shippingFromProxy>
+	    <Items>Items(ha-1) :-12.23</Items>
+	</isro> 
+	<isro>
+		<title>Region -: Indian</title> 
+        <Location>Location -: Spammer</Location>
+		<FutureType>FutureType -: SeaAmount</FutureType>
+		<RovDives>RovDives -: 1</RovDives>
+		<AreaCovered> AreaCovered -: 0.46</AreaCovered>
+        <DepthRangeSurvived>DepthRangeSurvived -: 200-2800</DepthRangeSurvived>
+        <DistanceFromLand>DistanceFromLand(km) -:603</DistanceFromLand>
+        <shippingFromProxy>shippingFromProxy -:0.12</shippingFromProxy>
+	    <Items>Items(ha-1) :-12.23</Items>
+	</isro> 
+	<isro>
+		<title>Region -: Indian</title> 
+        <Location>Location -: Atlantis</Location> 
+		<FutureType>FutureType -: Bank</FutureType>
+		<RovDives>RovDives -: 3</RovDives>
+		<AreaCovered> AreaCovered -: 1.36</AreaCovered>
+        <DepthRangeSurvived>DepthRangeSurvived -: 200-2800</DepthRangeSurvived>
+        <DistanceFromLand>DistanceFromLand(km) -:603</DistanceFromLand>
+        <shippingFromProxy>shippingFromProxy -:0.12</shippingFromProxy>
+        <Items>Items(ha-1) :-12.23</Items>
+	</isro> 
+</survey> 
